@@ -6,6 +6,7 @@ Module 22 Challenge
 3. Create a temporary table called home_sales.
 4. Answer the following questions using SparkSQL:
       - What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
+      - 
 +----------+---------+
 |year_built|avg_price|
 +----------+---------+
